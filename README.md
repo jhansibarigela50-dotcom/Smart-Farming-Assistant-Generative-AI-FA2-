@@ -1,1 +1,1 @@
-# Smart-Farming-Assistant-Generative-AI-FA2-
+# Smart-Farming-Assistant
